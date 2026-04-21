@@ -28,7 +28,7 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 
 | Rank | Prioridade | User Story                                                                                                                                      | Estimativa (horas) | Status              | Sprint |
 |------|------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------|--------|
-| 1    | Alta       | Como tomador de decisões públicas, quero que os dados coletados passem por uma limpeza inicial em linguagens de programação, para ter consistência no dashboard. | 8                  | Concluído dia 22/09 | 1      |
+| 1    | Alta       | Como um Tomador de Decisões Públicas, quero acessar os dados brutos do IBAMA devidamente limpos e normalizados em Python, para garantir que as análises futuras sejam baseadas em informações confiáveis e padronizadas.. | 8                  | A fazer | 1      |
 | 2    | Alta       | Como tomador de decisões públicas, preciso comparar o desempenho comercial de municípios paulistas com seus vizinhos, para identificar pontos fortes e fracos regionais. | 8                  | Concluído dia 29/09 | 1      |
 | 3    | Alta       | Como tomador de decisões públicas, desejo identificar mercados emergentes internacionais, para orientar políticas de incentivo às exportações. | 8                  | Concluído dia 29/09 | 1      |
 | 4    | Alta       | Como tomador de decisões públicas, quero segmentar por Estado e Município Paulista para acessar informações detalhadas (principais cargas, ranking de exportação/importação, evolução histórica). | 8                  | Concluído dia 29/09 | 1      |
