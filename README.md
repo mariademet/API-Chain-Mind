@@ -39,6 +39,24 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 | 9    | Alta       |  Como um Tomador de Decisões Públicas, quero uma interface intuitiva e responsiva no Power BI, para que as informações técnicas sejam acessíveis a diferentes níveis da gestão pública com poucos cliques. | 6                  | A fazer        | 4      |
 
 
+## Competências desenvolvidas
+- Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.)  
+- Processo de desenvolvimento ágil   
+- Caracterização do produto logístico  
+- Lógica de programação básica 
+- Lógica matemática 
+- Persistência de dados em BD relacional
+
+## Registro das Sprints
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 23/04/2026 | Em andamento  | [MVP](https://github.com/mariademet/)  |
+| 02                | 30/10/2026 | Em andamento  | [MVP](https://github.com/mariademet/)  |
+| 03                | 27/11/2026 | Em andamento  | [MVP](https://github.com/mariademet/)  |
+| Feira de Soluções | 04/12/2026 | Em andamento  | [MVP](MVP)  |
+
+
 
 
 
