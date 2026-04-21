@@ -66,6 +66,6 @@ Identificação de novos mercados emergentes nos dados.
 
 ## 📂 Anexos / Evidências
 - Requisitos do Cliente 
-- Prints/Protótipos do Dashboard (Power BI).
+- Prints/Protótipos do Dashboard (Power BI). (https://drive.google.com/file/d/1jX4SIoGkHoCGwMp0qMg23IijD-8vGCd2/uc?export=download&id=)
 - Repositório GitHub: API-Grupo-3
 [Assista ao vídeo do Dashboard](https://www.youtube.com/watch?v=nchifrdNHo0)
