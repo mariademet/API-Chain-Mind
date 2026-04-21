@@ -20,7 +20,7 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 | Scrum Master  | Mário de Oliveira Silva Júnior | [GitHub](https://github.com/MarioJunior12) |
 | Team Member   | Lucas Fernando Luciano Serafim |  [GitHub](https://github.com/LucasFLSerafim) |
 | Team Member   | Gabriela Souza |  [GitHub](https://github.com/GabrielaSouzaOiveira) |
-| Team Member   | Ana Beatris Chiavini |  [GitHub](https://github.com/) |
+| Team Member   | Ana Beatriz Chiavini |  [GitHub](https://github.com/) |
 | Team Member   | João Vitor Overas |  [GitHub](https://github.com/CrawS2) |
 
 
