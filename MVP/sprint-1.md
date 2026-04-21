@@ -27,3 +27,42 @@ Desenvolvimento de um dashboard interativo no Power BI, alimentado por uma base 
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
+|-----|-----------------------------------------------------------------------------|------------|------------|
+| US1 | Como um Tomador de Decisões Públicas, quero acessar os dados brutos do IBAMA devidamente limpos e normalizados em Python, para garantir análises confiáveis.         | Alta       | 8 pontos   |
+| US2 | Como um Tomador de Decisões Públicas, quero visualizar métricas de movimentação de cargas no estado de São Paulo, para identificar necessidades de infraestrutura.         | Alta      | 5 pontos   |
+
+
+## 📅 Sprint(s) Relacionadas
+| Sprint | Entregas Principais                          | Status   |
+|--------|----------------------------------------------|----------|
+| 01     | ETL em Python (Limpeza/Normalização) e Métricas de SP                      | Concluído|
+| 02     | Métricas Nacionais, Filtros de Modais e Tipos de Carga                         | Planejado |
+| 03     | Matriz Origem-Destino, Evolução Histórica e Registro RAPP                           | Planejado |
+
+---
+
+## 📊 Critérios de Aceitação
+- A base de dados deve ser processada diretamente do portal do IBAMA via Google Colab.  
+- O dashboard deve apresentar métricas claras de movimentação (quais cargas e principais modais) para o estado de São Paulo.
+- O controle de versão do código Python e dos arquivos do Power BI deve estar registrado no GitHub.
+
+---
+
+## 📈 Métricas de Validação
+- Número de usuários que acessaram/testaram o dashboard.
+- Feedback qualitativo de gestores e empresas (clareza das informações, usabilidade).
+- Indicadores de negócio:
+% de adesão ao uso do painel em sala de aula.
+Identificação de novos mercados emergentes nos dados.  
+
+---
+
+## 🚀 Próximos Passos
+- Melhorias planejadas após feedback  
+- Ajustes de usabilidade  
+- Expansão de funcionalidades para próximo incremento  
+
+---
+
+## 📂 Anexos / Evidências
+[Assista ao vídeo](https://www.youtube.com/watch?v=nchifrdNHo0)
