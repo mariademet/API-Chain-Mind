@@ -10,12 +10,12 @@ O propósito deste MVP é fornecer uma ferramenta de Business Intelligence (BI) 
 ## 📝 Descrição da Solução
 Desenvolvimento de um dashboard interativo no Power BI, alimentado por uma base de dados processada em Python(Google Colab).  
 - Funcionalidades principais incluídas
- Scripts de limpeza e normalização de dados utilizando Python no Google Colab.
- Dashboard inicial com métricas de movimentação de cargas específicas para o estado de São Paulo.  
+  Scripts de limpeza e normalização de dados utilizando Python no Google Colab.
+  Dashboard inicial com métricas de movimentação de cargas específicas para o estado de São Paulo.  
 - Limitações conhecidas
- Dados limitados ao recorte geográfico de São Paulo e ausência de funções avançadas como matriz Origem-Destino ou tendências históricas complexas.
-- Escopo reduzido   
- Foco total na integridade dos dados e na caracterização do produto logístico regional.
+  Dados limitados ao recorte geográfico de São Paulo e ausência de funções avançadas como matriz Origem-Destino ou tendências históricas complexas.
+- Escopo reduzido
+  Foco total na integridade dos dados e na caracterização do produto logístico regional.
 
 ---
 
