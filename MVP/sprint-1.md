@@ -69,3 +69,7 @@ Identificação de novos mercados emergentes nos dados.
 - Prints/Protótipos do Dashboard (Power BI). (https://drive.google.com/file/d/1jX4SIoGkHoCGwMp0qMg23IijD-8vGCd2/view?usp=drive_link)
 - Repositório GitHub: API-Grupo-3
 [Assista ao vídeo do Dashboard](https://www.youtube.com/watch?v=nchifrdNHo0)
+- Power BI <td align="center"><video src="https://github.com/user-attachments/assets/ae20a002-ffae-4683-8368-9d9d1ab7bea9"></video></td> 
+
+
+
